@@ -1,0 +1,1 @@
+entryEXcontent.exe & pause

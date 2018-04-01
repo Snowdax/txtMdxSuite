@@ -1,0 +1,12 @@
+﻿apple	苹果
+苹果	﻿apple
+banana	香蕉
+香蕉	banana
+orange	橘子
+橘子	orange
+pear	梨子
+梨子	pear
+peach	桃子
+桃子	peach
+lychee	荔枝
+荔枝	lychee

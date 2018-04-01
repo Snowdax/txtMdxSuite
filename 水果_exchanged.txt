@@ -1,0 +1,6 @@
+苹果	﻿apple
+香蕉	banana
+橘子	orange
+梨子	pear
+桃子	peach
+荔枝	lychee

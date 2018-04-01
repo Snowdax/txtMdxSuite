@@ -1,0 +1,17 @@
+﻿apple
+苹果
+</>
+banana
+香蕉
+</>
+orange
+橘子
+</>
+pear
+梨子
+</>
+peach
+桃子
+</>
+lychee
+荔枝
